@@ -1,5 +1,5 @@
 # Hi there, I'm Daniil Shamraev ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
-### Computer science student, Python backend enginner from Russia 🇷🇺
+### Computer science student, Python backend engineer from Russia 🇷🇺
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+backend+dev)](https://git.io/typing-svg)
 
